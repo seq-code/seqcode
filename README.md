@@ -337,7 +337,7 @@ appropriate suffix to the stem of the type genus name (see
 
 ###### <a name="table-1"></a> Table 1. Suffixes for Taxonomic Ranks
 | Rank   | Suffix | Example for the genus *Hadarchaeum* <sup>a</sup>
-+--------+--------+-------------------------------------------------
+|--------|--------|-------------------------------------------------
 | Phylum | -ota   | *Hadarchaeota*
 | Class  | -ia    | *Hadarchaeia*
 | Order  | -ales  | *Hadarchaeales*
@@ -364,7 +364,7 @@ Types of the various taxonomic categories are presented in Table 2.
 
 ###### <a name="table-2"></a> Table 2. Nomenclatural types of taxonomic ranks
 | Taxonomic category | Nomenclatural type
-+--------------------+------------------------
+|--------------------|------------------------
 | Subspecies         | Designated DNA sequence
 | Species            | Designated DNA sequence
 | Genus              | Designated species
