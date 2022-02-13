@@ -14,7 +14,7 @@ Anna-Louise Reysenbach <sup>g</sup>,
 Luis M Rodriguez-R <sup>h</sup>,
 Ramon Rossello-Mora <sup>i</sup>,
 Iain Sutcliffe <sup>j</sup> and
-Sephanus N Venter <sup>k</sup>
+Stephanus N Venter <sup>k</sup>
 
 - <sup>a</sup> Department of Microbiology, University of Georgia, Athens, GA,
   USA
@@ -119,7 +119,7 @@ Nomenclature, the International Code of Nomenclature for algae, fungi and plants
 and the International Code of Virus Classification and Nomenclature must not be
 used.
 
-The SeqCode is also **not independent** of the names regulated by the
+The SeqCode is **not independent** of the names regulated by the
 International Code of Nomenclature of Prokaryotes (ICNP) and formed before
 January 1, 2022. Before that date, legitimate names formed under the ICNP have
 priority. After that date, names formed under the ICNP compete with names formed
@@ -130,8 +130,8 @@ The scientific names of all taxa are Latin or Latinized words treated as Latin.
 
 ##### Principle 4
 The primary purpose of giving a name to a taxon is to supply a means of
-referring to it rather than to indicate the characters or the history of the
-taxon.
+referring to it. A secondary consideration, given the nature of cognition and
+memory, is that names should aid memorability.
 
 ##### Principle 5
 Names of taxa are tied to their nomenclatural types, referred to as types in the
@@ -256,7 +256,7 @@ To form new prokaryotic names, authors are advised as follows:
 3. Languages other than Latin should be avoided when Latin equivalents exist or
    can be constructed by combining Latin word elements. Exceptions include names
    derived from local items such as foods, drinks, geographic localities, and
-   arbitrary names for which no Latin names exist.
+   other names for which no Latin words exist.
 4. Authors should not name organisms after themselves. If names are formed from
    personal names, they should contain only the name of one person. They may
    contain the untruncated family and/or first names.
@@ -264,6 +264,8 @@ To form new prokaryotic names, authors are advised as follows:
    of the person they commemorate.
 6. Names should not be deliberately contentious or abusive of any person, race,
    religion, political belief, or ideology.
+7. Names that include mnemonic cues are preferred because they promote learning
+   and memory.
 
 #### Names of Genera
 
@@ -381,10 +383,11 @@ The type of a taxon must be designated for the name to be validly published
 The type of a species or subspecies is a designated DNA sequence that is
 compliant with the minimum standards designated by the SeqCode Committee for
 genome, metagenome-assembled genome, or single- amplified genome sequences. The
-sequence must be available in the International Nucleotide Sequence Database
-Collaboration (INSDC). Upon recommendations of the SeqCode Committee or
-subcommittees on the taxonomy of specific groups, the SeqCode Committee may
-approve other minimal standards as suitable types for specific groups.
+sequence must be available in two public databases or the International
+Nucleotide Sequence Database Collaboration (INSDC). Upon recommendations of the
+SeqCode Committee or subcommittees on the taxonomy of specific groups, the
+SeqCode Committee may approve other minimal standards as suitable types for
+specific groups.
 
 ##### Rule 18b
 The type of a species or subspecies must unambiguously identify the taxon. Names
@@ -484,9 +487,9 @@ The following are not accepted as forms of effective publication.
 2. Placing of names in listings or catalogues of collections.
 3. Reports in ephemeral publications, newsletters, white papers, self-published
    papers, or non-scientific periodicals.
-4. Inclusion of a name in a published patent application or issued patent.
-4. A name associated with a sequence or metadata in a database.
-5. Electronic material available in advance of publication (e.g., papers in
+4. A published patent application or issued patent including the name.
+5. A database containing names associated with a sequence or metadata.
+6. Electronic material available in advance of publication (e.g., papers in
    press or preprints).
 
 #### Valid and Invalid Publication and Registration of Names
@@ -506,7 +509,9 @@ validly published unless the following criteria are met:
    accession number cited.
 4. The taxonomic rank is designated.
 5. The derivation (etymology) of a new name (and if necessary of a new
-   combination) is given.
+   combination) is given wherein one or more distinguishable roots are
+   identified. Roots can originate from any language in use or extinct (see also
+   [Recommendation 9](#recommendation-9)).
 
 **Note 1.** When a new species or a new combination results in the proposal of a
 new genus, both the new genus name and the new species name or the new
@@ -651,9 +656,6 @@ under a taxon of higher rank, the higher-ranking taxon should derive its name
 from the name of the earliest legitimate type genus among the lower-ranking
 taxa.
 
-**Note.** The type of a taxon above the rank of genus is one of the contained
-genera. The union of genera is considered in Rule 38.
-
 ##### Rule 40
 If no type genera were placed in the taxon, a new name based on the selected
 type must be proposed. (see [Rule 22](#rule-22))
@@ -709,13 +711,17 @@ ascribed to the original author.
 ##### Rule 44
 A legitimate name or epithet may not be replaced.
 
+##### Rule 45
+Names contrary to the General Considerations or Principles of the code may be
+rejected by the SeqCode Reconciliation Comission.
+
 ### <a name="section-9"></a>Section 9. Orthography
 
-##### Rule 45
+##### Rule 46
 All names comprise only the 26 letters of the ISO basic Latin alphabet.
 Diacritic signs are not to be used.
 
-##### Rule 46
+##### Rule 47
 Any name or epithet should be written in conformity with the spelling of the
 word from which it is derived and in accordance with the rules of Latinization.
 Exceptions are provided for typographic and orthographic errors and orthographic
@@ -733,7 +739,7 @@ and based on different types are not orthographic variants.
 
 #### Typographic and Orthographic Errors
 
-##### Rule 47
+##### Rule 48
 The original spelling of a name or epithet must be retained, except for
 typographic or orthographic errors.
 
@@ -755,14 +761,14 @@ letter of the name or epithet.
 
 #### Personal Names
 
-##### Rule 48
+##### Rule 49
 The genitive and adjectival forms of a personal name are treated as different
 epithets and not as orthographic variants unless they are so similar as to cause
 confusion.
 
 #### Gender of Names
 
-##### Rule 49
+##### Rule 50
 The gender of genus names is governed by the following.
 1. A Latin or Latinized genus name retains the gender of its language of origin.
    Authors must give the gender of any proposed genus name. In cases where the
@@ -777,11 +783,11 @@ The gender of genus names is governed by the following.
 When it is desirable to distinguish the nature of the type of a name, the
 following convention is recommended. When the type for a species or subspecies
 is determined by the ICNP, the superscript “T” will be used immediately
-following the name or strain identifier.. If the type is determined by the
-SeqCode, the superscript “Ts” will be used following the name of the type
-species or subspecies represented by type genome and/or designation of the type
-genome. If superscripts are not possible, they may be replaced by the symbols in
-parentheses, i.e., (T) or (Ts).
+following the name or strain identifier. If the type is determined by the
+SeqCode, the superscript “Ts” or “TS” will be used. When the type is a taxon at
+the rank of genus or higher, the superscript is determined by the nature of the
+type of the species. If superscripts are not possible, they may be replaced by
+the symbols in parentheses, i.e., (T), (Ts), or (TS).
 
 For the purpose of identification in the text, names of taxa at all ranks should
 be italicized.
