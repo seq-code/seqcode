@@ -1,0 +1,21 @@
+name: Render Docs
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  convert_docs:
+    name: Build PDF and HTML docs
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_dir: .
+          output_dir: docs
+      - uses: actions/upload-artifact@v1
+        with:
+          name: docs
+          path: docs
+
