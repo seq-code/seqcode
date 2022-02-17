@@ -383,11 +383,10 @@ The type of a taxon must be designated for the name to be validly published
 The type of a species or subspecies is a designated DNA sequence that is
 compliant with the minimum standards designated by the SeqCode Committee for
 genome, metagenome-assembled genome, or single- amplified genome sequences. The
-sequence must be available in two public databases or the International
-Nucleotide Sequence Database Collaboration (INSDC). Upon recommendations of the
-SeqCode Committee or subcommittees on the taxonomy of specific groups, the
-SeqCode Committee may approve other minimal standards as suitable types for
-specific groups.
+sequence must be available in the International Nucleotide Sequence Database
+Collaboration (INSDC). Upon recommendations of the SeqCode Committee or
+subcommittees on the taxonomy of specific groups, the SeqCode Committee may
+approve other minimal standards as suitable types for specific groups.
 
 ##### Rule 18b
 The type of a species or subspecies must unambiguously identify the taxon. Names
