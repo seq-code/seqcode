@@ -362,7 +362,7 @@ the types, allowing tracing which biological entity is included in the taxon.
 The nomenclatural type is not necessarily the most typical or representative
 element of the taxon.
 
-Types of the various taxonomic categories are presented in Table 2.
+Types of the various taxonomic categories are presented in [Table 2](#table-2).
 
 ###### <a name="table-2"></a> Table 2. Nomenclatural types of taxonomic ranks
 | Taxonomic category | Nomenclatural type
