@@ -250,6 +250,7 @@ viruses cannot be used.
 
 ##### Recommendation 9
 To form new prokaryotic names, authors are advised as follows:
+
 1. Names that are very long or difficult to pronounce should be avoided.
 2. Names should differ by at least three characters from existing names of
    genera or species within the same genus.
@@ -292,6 +293,7 @@ begin with a lowercase letter.
 
 ##### Rule 12
 A species epithet must be related to the genus name in one of three ways.
+
 1. As an adjective. Example: aureus in Staphylococcus aureus.
 2. As a substantive (noun) in apposition in the nominative case. Example:
    *Desulfovibrio gigas* or other names cited in
@@ -302,6 +304,7 @@ A species epithet must be related to the genus name in one of three ways.
 ##### Recommendation 12
 Authors should attend to the following recommendations and those of
 [Recommendation 9](#recommendation-9) when forming species names.
+
 1. When a species epithet is chosen to indicate a property or source of the
    species, epithets should not express a character common to all, or nearly
    all, the species of a genus.
@@ -481,6 +484,7 @@ publication.
 
 ##### Rule 24c
 The following are not accepted as forms of effective publication.
+
 1. Communication of new names at a meeting, minutes of a meeting, or abstracts
    of papers presented at meetings.
 2. Placing of names in listings or catalogues of collections.
@@ -500,6 +504,7 @@ registration in the SeqCode Registry.
 ##### Rule 26
 A name of a new taxon, or a new combination for an existing taxon, is not
 validly published unless the following criteria are met:
+
 1. The name is effectively published under the rules of the SeqCode.
 2. The name is registered in the SeqCode Registry, along with mandatory data
    fields listed below.
@@ -684,6 +689,7 @@ not necessarily illegitimate when the taxon is in another taxonomic position.
 
 **Note.** Some common reasons for which a name may be illegitimate are the
 following.
+
 1. If the taxon to which the name was applied, as circumscribed by the author,
    included the nomenclatural type of a name which the author ought to have
    adopted under one or more of the rules.
@@ -769,6 +775,7 @@ confusion.
 
 ##### Rule 50
 The gender of genus names is governed by the following.
+
 1. A Latin or Latinized genus name retains the gender of its language of origin.
    Authors must give the gender of any proposed genus name. In cases where the
    classical gender varies, the author has the right of choice between the
