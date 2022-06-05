@@ -928,6 +928,8 @@ preprint of the SeqCode.
   "in Apposition". Int J Syst Bacteriol 47:908–909.
 
 
+---
+
 
 # APPENDIX I
 
@@ -960,9 +962,9 @@ to ensure high quality data supporting species to be named.
   uniqueness of the species with respect to existing named species and justify
   the taxonomic rank and position
   (e.g., [Jain et al., 2018](https://doi.org/10.1038/s41467-018-07641-9),
-  [Karthikeyan et al., 2019](),
-  [Parks et al., 2020](),
-  [Rodriguez-R et al., 2018]()).
+  [Karthikeyan et al., 2019](https://doi.org/10.1038/s41396-019-0400-5),
+  [Parks et al., 2020](https://doi.org/10.1038/s41587-020-0501-8),
+  [Rodriguez-R et al., 2018](https://doi.org/10.1093/nar/gky467)).
 * For MAGs and SAGs, compare multiple high-quality genomes representing the
   species in more than one sample
   (e.g., Supplemental Information).<sup>a</sup><br/>
@@ -978,16 +980,16 @@ to ensure high quality data supporting species to be named.
 
 * Type genome assembly quality for MAGs and SAGs:
   &gt;90% complete and &lt;5% contaminated
-  (modified from [Bowers et al., 2017]()).
+  (modified from [Bowers et al., 2017](https://doi.org/10.1038/nbt.3893)).
   For isolates, read coverage &ge;10x
-  ([Field et al., 2008]()).
+  ([Field et al., 2008](https://doi.org/10.1038/nbt1360)).
 * Agreement between genome and 16S rRNA taxonomic assignments
 
 **Recommended**
 
 * 16S rRNA genes &gt;75% complete and passes chimera checks
   &gt;80% of tRNAs present
-  (modified from [Bowers et al., 2017]()).
+  (modified from [Bowers et al., 2017](https://doi.org/10.1038/nbt.3893)).
 * High genome integrity
   (contig # &lt;100; N50 &gt;25 kb; max. contig &gt;100 kb).
 * MAG/SAG read coverage &ge;10x.
@@ -999,6 +1001,8 @@ to ensure high quality data supporting species to be named.
   (e.g., Sequence Read Archive)<sup>c</sup><br/>
   **Rationale:** Registry queries the INSDC databases to perform automatic
   checks of data quality
+
+
 
 **a.** Comparison of multiple high-quality genomic assemblies from
 multiple samples can support the non-chimeric nature of MAGs and provide
