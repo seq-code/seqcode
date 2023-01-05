@@ -438,16 +438,17 @@ The type of a taxon must be designated for the name to be validly published
 
 The type of a species or subspecies is a designated DNA sequence that is
 compliant with the minimum standards designated by the SeqCode Committee for
-genome, metagenome-assembled genome, or single- amplified genome sequences. The
-sequence must be available in the International Nucleotide Sequence Database
-Collaboration (INSDC). Upon recommendations of the SeqCode Committee or
-subcommittees on the taxonomy of specific groups, the SeqCode Committee may
-approve other minimal standards as suitable types for specific groups.
+genome, metagenome-assembled genome, or single-amplified genome sequences.
+The sequence must be available in the International Nucleotide Sequence Database
+Collaboration (INSDC).
+Upon recommendations of the SeqCode Committee or subcommittees on the taxonomy
+of specific groups, the SeqCode Committee may approve other minimal standards as
+suitable types for specific groups.
 
 ##### Rule 18b
 
-The type of a species or subspecies must identifyallow the unambiguous
-identification of the taxon.
+The type of a species or subspecies must allow the unambiguous identification of
+the taxon.
 Names based on types that later prove to be ambiguous are not legitimate unless
 a neotype is proposed.
 
@@ -656,9 +657,9 @@ combination.
 
 If an alteration of a taxon modifies its circumscription, the author responsible
 may be indicated by the addition to the author citation of the abbreviation
-‘‘emend.’’ (emendavit) followed by the name of the author responsible for the
-change. Only alterations that cause significant changes in the circumscription
-warrant description as an emendation.
+‘‘*emend.*’’ (*emendavit*) followed by the name of the author responsible for
+the change. Only alterations that cause significant changes in the
+circumscription warrant description as an emendation.
 
 ### <a name="section-7"></a> Section 7. Changes in Names of Taxa as a Result of Transference, Union, or Change in Rank
 
