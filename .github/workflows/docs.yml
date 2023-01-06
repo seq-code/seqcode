@@ -2,7 +2,7 @@ name: Render Docs
 on:
   push:
     branches:
-      - main
+      # - main
 
 jobs:
   convert_docs:
