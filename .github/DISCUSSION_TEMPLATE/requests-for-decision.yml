@@ -1,0 +1,51 @@
+title: "Validation Request: Provide a descriptive title of the requested action"
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Request for Decision and Community Discussion
+        _add here the list of authors of the request_
+
+        **Validation request:** proposal to grant an exception under Ryle 18a
+        in order to validate the name ... _(adapt as needed)_
+
+        **Author/s of the original request:**
+        _if different from the above, otherwise remove_
+
+        **Reason for request:** _describe briefly why the request is made_
+
+        **Effective publication:**
+        _citation of the manuscript serving as the name's effective publication_
+  - type: markdown
+    attributes:
+      value: |
+        ## Proposed type genome
+        - Single-cell amplified, metagenome-assembled, or isolate genome
+          _(select one, delete the rest)_
+        - **Accession:** _accession in INSDC_
+        - _genome features, including estimated completeness and contamination_
+        - _additional information, including 16S rRNA features_
+  - type: markdown
+    attributes:
+      value: |
+        ## Evidence for taxon and its novelty
+        _description of the taxon's history and importance_
+
+        **Classification:** _taxonomic classification proposed_
+
+        **Submitter comments:** _additional information on the taxon_
+
+        **Taxon description:** _description of the taxon for name proposal_
+  - type: markdown
+    attributes:
+      value: |
+        ## Historical significance
+        _if requested on the basis of historical importance, describe here_
+  - type: markdown
+    attributes:
+      value: |
+        ## Relevant SeqCode Rules and Recommendations
+        _reference here relevant sections of the SeqCode from_
+        https://seqco.de/seqcode
+
