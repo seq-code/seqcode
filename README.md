@@ -305,8 +305,8 @@ To form new prokaryotic names, authors are advised as follows:
    contain the untruncated family and/or first names.
 5. All personal genus names should be feminine regardless of the gender identity
    of the person they commemorate.
-6. Names should not be deliberately contentious or abusive of any person, race,
-   religion, political belief, or ideology.
+6. Names should not be deliberately contentious or abusive of any person, gender
+   or sexual identity, race, religion, political belief, or ideology.
 7. Names that include mnemonic cues are preferred because they promote learning
    and memory.
 
@@ -323,7 +323,7 @@ Authors should attend to the following Recommendation and those of
 [Recommendation 9](#recommendation-9) when forming genus names.
 
 1. Names that have the same suffixes as those used for the higher taxonomic
-   ranks should be avoided: -aceae, -ales, -ia, and -ota (see
+   ranks should be avoided: *-aceae*, *-ales*, *-ia*, and *-ota* (see
    [Table 1](#table-1)).
 
 #### Names of Species
@@ -536,8 +536,21 @@ priority will be decided by the SeqCode Reconciliation Committee.
 
 The priority date of names of taxa of rank higher than genus proposed after 1
 January 2022 is the same as the priority date of the corresponding type genus
-name. The priority date for names published before 1 January 2022 is the same as
-their priority under the ICNP.
+name unless there is a published *Candidatus* name for the taxon. In that case,
+the date of publication of the *Candidatus* name establishes priority for the
+*Candidatus* name upon validation unless there is an ICNP name validly published
+for the same taxon before 1 January 2022, in which case the date of valid
+publication of the ICNP name establishes priority. Validating existing
+*Candidatus* higher taxa names requires validation of a type genus name with an
+appropriate stem and the associated names for the subordinated higher taxonomic
+ranks where appropriate. However, this protection of *Candidatus* names is lost
+if the *Candidatus* name is not validated by 1 January, 2027. The priority date
+for names published before 1 January 2022 is the same as their priority under
+the ICNP. This rule is retroactive to 1 January, 2022.
+
+**Note 1.** After 1 January 2027, it is strongly recommended that genus names
+are proposed to preserve published *Candidatus* names for higher taxa, when
+appropriate, to allow validation of existing *Candidatus* names.
 
 ##### Rule 23e
 
@@ -613,7 +626,7 @@ It is recommended that the name, etymology, type information, and diagnosis of
 the novel taxon should be clearly identifiable in a designated section of the
 effective publication (i.e., the section termed the ‘protologue’ by some
 microbial taxonomists). Authors are encouraged to provide additional information
-describing the taxon such as predicted or known physiological characteristics,
+describing the taxon, such as predicted or known physiological characteristics,
 ecological data, location, and additional metadata. Authors are also encouraged
 to submit metadata with the type sequence in one of the INSDC databases.
 
@@ -759,7 +772,7 @@ taxa.
 ##### Rule 40
 
 If no type genera were placed in the taxon, a new name based on the selected
-type must be proposed. (see [Rule 22](#rule-22))
+type must be proposed (see [Rule 22](#rule-22)).
 
 #### Change in Rank
 
@@ -835,8 +848,8 @@ Diacritic signs are not to be used.
 
 Any name or epithet should be written in conformity with the spelling of the
 word from which it is derived and in accordance with the rules of Latin grammar.
-Exceptions are provided for typographic and orthographic errors and orthographic
-variants.
+Exceptions are provided for typographical and orthographic errors and
+orthographic variants.
 
 **Note 1.** Consult Appendix 9 of the ICNP for recommendations on forming
 properly Latinized names.
@@ -855,21 +868,28 @@ and based on different types are not orthographic variants.
 The original spelling of a name or epithet must be retained, except for
 typographical or orthographic errors.
 
-An unintentional typographical or orthographic error later corrected by the
-author is to be accepted in its corrected form without affecting the status and
-date of valid publication. It can also be corrected by a subsequent author who
-may or may not mention that the spelling is corrected. However, the abbreviation
-‘‘corrig.’’ (*corrigendum*) may be appended to the name if an author wishes to
-draw attention to the correction. Succeeding authors may be unaware that the
-original usage was incorrect and use the spelling of the original author(s).
-Other succeeding authors may follow the correction of a previous author or may
-independently correct the spelling themselves, but in no case is the use of
-corrig. regarded as obligatory. None of these corrections affects the status and
-date of validation.
+An unintentional typographical or orthographic error in an effectively published
+name may be corrected before or after validation in the Registry by the author
+or the SeqCode Registry curators. The name is to be accepted in its corrected
+form without affecting the status and date of valid publication. It can also be
+corrected by a subsequent author in a peer-reviewed publication. That
+publication may or may not mention that the spelling is corrected. In that case,
+the authors or SeqCode Registry curators must update the name in the SeqCode
+Registry. The abbreviation “corrig.” (*corrigendum*) may be appended to the name
+if an author wishes to draw attention to the correction. Succeeding authors may
+be unaware that the original usage was incorrect and use the spelling of the
+original author(s). Other succeeding authors may follow the correction of a
+previous author or may independently correct the spelling themselves, but in no
+case is the use of corrig. regarded as obligatory. None of these corrections
+affects the status and date of validation.
 
-**Note.** The liberty of correcting a name or epithet must be used with reserve,
-especially if the change affects the first syllable and above all the first
-letter of the name or epithet.
+**Note 1.** The liberty of correcting a name or epithet must be used with
+reserve, especially if the change affects the first syllable and above all the
+first letter of the name or epithet.
+
+**Note 2.** When feasible, as a courtesy, the SeqCode Registry curators will
+inform one or more authors of the effective publication that typographical or
+orthographic errors have been corrected in the Registry.
 
 #### Personal Names
 
