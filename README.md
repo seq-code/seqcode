@@ -4,7 +4,7 @@ Edited by
 William B Whitman <sup>a</sup>,
 Maria Chuvochina <sup>b</sup>,
 Brian P Hedlund <sup>c</sup>,
-Philip Hugenholtz <sup>b,d</sup>,
+Philip Hugenholtz <sup>d,b</sup>,
 Kostas T Konstantinidis <sup>e</sup>,
 Alison E Murray <sup>f</sup>,
 Marike Palmer <sup>g</sup>,
