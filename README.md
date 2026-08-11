@@ -4,40 +4,42 @@ Edited by
 William B Whitman <sup>a</sup>,
 Maria Chuvochina <sup>b</sup>,
 Brian P Hedlund <sup>c</sup>,
-Philip Hugenholtz <sup>b</sup>,
-Kostas T Konstantinidis <sup>d</sup>,
-Alison E Murray <sup>e</sup>,
-Marike Palmer <sup>c</sup>,
+Philip Hugenholtz <sup>b,d</sup>,
+Kostas T Konstantinidis <sup>e</sup>,
+Alison E Murray <sup>f</sup>,
+Marike Palmer <sup>g</sup>,
 Donovan H Parks <sup>b</sup>,
-Alexander J Probst <sup>f</sup>,
-Anna-Louise Reysenbach <sup>g</sup>,
-Luis M Rodriguez-R <sup>h</sup>,
-Ramon Rossello-Mora <sup>i</sup>,
-Iain Sutcliffe <sup>j</sup> and
-Stephanus N Venter <sup>k</sup>
+Alexander J Probst <sup>h</sup>,
+Anna-Louise Reysenbach <sup>i</sup>,
+Luis M Rodriguez-R <sup>b</sup>,
+Ramon Rossello-Mora <sup>j</sup>,
+Iain Sutcliffe <sup>k</sup> and
+Stephanus N Venter <sup>l</sup>
 
 - <sup>a</sup> Department of Microbiology, University of Georgia, Athens, GA,
   USA
-- <sup>b</sup> The University of Queensland, School of Chemistry and Molecular
-  Biosciences, Australian Centre for Ecogenomics, Australia
+- <sup>b</sup> Department of Chemistry and Bioscience, Aalborg University,
+  Aalborg East, Denmark
 - <sup>c</sup> School of Life Sciences, University of Nevada, Las Vegas, NV, USA
-- <sup>d</sup> School of Civil and Environmental Engineering, Georgia Tech,
+- <sup>d</sup> The University of Queensland, School of Chemistry and Molecular
+  Biosciences, Australian Centre for Ecogenomics, Australia
+- <sup>e</sup> School of Civil and Environmental Engineering, Georgia Tech,
   Atlanta, GA, USA
-- <sup>e</sup> Division of Earth and Ecosystem Sciences, Desert Research
+- <sup>f</sup> Division of Earth and Ecosystem Sciences, Desert Research
   Institute, Reno, NV, USA
-- <sup>f</sup> Department of Chemistry, Environmental Microbiology and
+- <sup>g</sup> Department of Microbiology, University of Manitoba, Winnipeg,
+  Manitoba, Canada
+- <sup>h</sup> Department of Chemistry, Environmental Microbiology and
   Biotechnology (EMB), Group for Aquatic Microbial Ecology and Centre of Water
   and Environmental Research (ZWU), University of Duisburg- Essen, Essen,
   Germany
-- <sup>g</sup> Biology Department, Portland State University, Portland, OR, USA
-- <sup>h</sup> Department of Microbiology and Digital Science Center (DiSC),
-  University of Innsbruck, Innrain 15 / 01- 05, Innsbruck 6020, Austria
-- <sup>i</sup> Marine Microbiology Group, Department of Animal and Microbial
+- <sup>i</sup> Biology Department, Portland State University, Portland, OR, USA
+- <sup>j</sup> Marine Microbiology Group, Department of Animal and Microbial
   Diversity, Mediterranean Institute of Advanced Studies (CSIC-UIB), Esporles,
   Illes Balears, Spain
-- <sup>j</sup> Faculty of Health &amp; Life Sciences, Northumbria University,
+- <sup>k</sup> Faculty of Health &amp; Life Sciences, Northumbria University,
   Newcastle upon Tyne, UK
-- <sup>k</sup> Department of Biochemistry, Genetics and Microbiology, Forestry
+- <sup>l</sup> Department of Biochemistry, Genetics and Microbiology, Forestry
   and Agricultural Biotechnology Institute (FABI), University of Pretoria,
   Pretoria, South Africa
 
@@ -294,8 +296,8 @@ A later homonym of a name formed under the nomenclatural codes listed in
 To form new prokaryotic names, authors are advised as follows:
 
 1. Names that are very long or difficult to pronounce should be avoided.
-2. Names should differ by at least three characters from existing names of
-   genera or species within the same genus.
+2. Names should differ by at least two characters from existing names of genera
+   or species within the same genus.
 3. Languages other than Latin should be avoided when Latin equivalents exist or
    can be constructed by combining Latin word elements. Exceptions include names
    derived from local items such as foods, drinks, geographic localities, and
@@ -458,18 +460,30 @@ If the type of a name is lost or demonstrated to be ambiguous, a neotype
 sequence may be proposed to the SeqCode Reconciliation Commission. If approved,
 the SeqCode Registry will be amended to reflect the new type.
 
-##### Rule 19
+##### Rule 18d
 
 Unless designated under the rules of this code, a reference DNA sequence is not
 a type but a sequence used in comparative studies. A reference sequence has no
 standing in nomenclature.
 
-##### Recommendation 19
+##### Rule 19a
 
-When a strain belonging to a taxon named under the SeqCode is isolated,
-a reference strain should be designated and submitted to two culture
-collections in different countries.
-Reference strains have no standing in nomenclature.
+When a strain belonging to a taxon named under the SeqCode is isolated, it may
+be designated as a **paratype**, i.e., a specimen that provides additional
+material for the description of a species or subspecies. To qualify as a
+paratype, a viable culture of that strain must be deposited in at least one
+publicly accessible culture collection from which subcultures must be available.
+A paratype does not replace a sequence as the type. A strain may be designated a
+paratype by the original or subsequent authors.
+
+##### Rule 19b
+
+If the type sequence is obtained from an isolated strain, then that strain is a
+paratype if it is deposited as designated in [Rule 19a](#rule-19a).
+
+##### Rule 19c
+
+More than one paratype may be designated for a species or subspecies.
 
 #### Types of higher taxa
 
@@ -640,13 +654,26 @@ epithet.
 
 #### Proposal and Subsequent Citation of the Name of a New Taxon
 
-##### Recommendation 28
+##### Recommendation 28a
 
 The effective publication should be cited with the name of a previously proposed
 taxon. Correct citation of a name enables the date of publication, the
 description, and the circumscription of the taxon to be found. For names
 published under the SeqCode, the validly published name and date of valid
 publication should be determined from the SeqCode Registry.
+
+##### Recommendation 28b
+
+If a publication proposing a name fails to meet the criteria for valid
+publication, the publication should be cited in parentheses preceding the
+effective publication and following the term "*ex*" upon valid publication of
+the name.
+
+##### Recommendation 28c
+
+The first publication reporting or establishing an isolated strain designated as
+a paratype under [Rule 19a](#rule-19a) should be cited after the effective
+publication, following the term "paratype" or "Pt."
 
 #### Proposal of a New Combination
 
@@ -924,8 +951,9 @@ is determined by the ICNP, the superscript “T” will be used immediately
 following the name or strain identifier. If the type is determined by the
 SeqCode, the superscript “Ts” or “TS” will be used. When the type is a taxon at
 the rank of genus or higher, the superscript is determined by the nature of the
-type of the species. If superscripts are not possible, they may be replaced by
-the symbols in parentheses, i.e., (T), (Ts), or (TS).
+type of the species. If a paratype is to be designated, the superscript "Pt" or
+"PT" will be used. If superscripts are not possible, they may be replaced by the
+symbols in parentheses, i.e., (T), (Ts) or (TS), and (Pt) or (PT).
 
 For the purpose of identification in the text, names of taxa at all ranks should
 be italicized.
@@ -941,11 +969,12 @@ preprint of the SeqCode.
 
 ## REFERENCES
 
-* <a name="ref-chuvochina-2019"></a> Chuvochina M, Rinke C, Parks DH, Rappé MS, Tyson GW,
-  Yilmaz P, Whitman, WB, Hugenholtz P (2019) The importance of designating type
-  material for uncultured taxa. Syst Appl Microbiol 42 (2019) 15–21
-* <a name="ref-truper-1997"></a> Trüper HG, de’Clari L (1997) Taxonomic note: necessary
-  correction of specific epithets formed as substantives (nouns)
+* <a name="ref-chuvochina-2019"></a> Chuvochina M, Rinke C, Parks DH, Rappé MS,
+  Tyson GW, Yilmaz P, Whitman, WB, Hugenholtz P (2019) The importance of
+  designating type material for uncultured taxa. Syst Appl Microbiol 42 (2019)
+  15–21
+* <a name="ref-truper-1997"></a> Trüper HG, de’Clari L (1997) Taxonomic note:
+  necessary correction of specific epithets formed as substantives (nouns)
   "in Apposition". Int J Syst Bacteriol 47:908–909.
 
 
