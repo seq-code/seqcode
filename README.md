@@ -2,48 +2,50 @@
 
 Edited by
 William B Whitman <sup>a</sup>,
-Maria Chuvochina <sup>b</sup>,
+Maria Chuvochina <sup>b,1</sup>,
 Brian P Hedlund <sup>c</sup>,
-Philip Hugenholtz <sup>d,b</sup>,
-Kostas T Konstantinidis <sup>e</sup>,
-Alison E Murray <sup>f</sup>,
-Marike Palmer <sup>g</sup>,
-Donovan H Parks <sup>b</sup>,
-Alexander J Probst <sup>h</sup>,
-Anna-Louise Reysenbach <sup>i</sup>,
-Luis M Rodriguez-R <sup>b</sup>,
-Ramon Rossello-Mora <sup>j</sup>,
-Iain Sutcliffe <sup>k</sup> and
-Stephanus N Venter <sup>l</sup>
+Philip Hugenholtz <sup>b</sup>,
+Kostas T Konstantinidis <sup>d</sup>,
+Alison E Murray <sup>e</sup>,
+Marike Palmer <sup>c,2</sup>,
+Donovan H Parks <sup>b,1</sup>,
+Alexander J Probst <sup>f</sup>,
+Anna-Louise Reysenbach <sup>g</sup>,
+Luis M Rodriguez-R <sup>h,1</sup>,
+Ramon Rossello-Mora <sup>i</sup>,
+Iain Sutcliffe <sup>j</sup> and
+Stephanus N Venter <sup>k</sup>
 
 - <sup>a</sup> Department of Microbiology, University of Georgia, Athens, GA,
   USA
-- <sup>b</sup> Department of Chemistry and Bioscience, Aalborg University,
-  Aalborg East, Denmark
-- <sup>c</sup> School of Life Sciences, University of Nevada, Las Vegas, NV, USA
-- <sup>d</sup> The University of Queensland, School of Chemistry and Molecular
+- <sup>b</sup> The University of Queensland, School of Chemistry and Molecular
   Biosciences, Australian Centre for Ecogenomics, Australia
-- <sup>e</sup> School of Civil and Environmental Engineering, Georgia Tech,
+- <sup>c</sup> School of Life Sciences, University of Nevada, Las Vegas, NV, USA
+- <sup>d</sup> School of Civil and Environmental Engineering, Georgia Tech,
   Atlanta, GA, USA
-- <sup>f</sup> Division of Earth and Ecosystem Sciences, Desert Research
+- <sup>e</sup> Division of Earth and Ecosystem Sciences, Desert Research
   Institute, Reno, NV, USA
-- <sup>g</sup> Department of Microbiology, University of Manitoba, Winnipeg,
-  Manitoba, Canada
-- <sup>h</sup> Department of Chemistry, Environmental Microbiology and
+- <sup>f</sup> Department of Chemistry, Environmental Microbiology and
   Biotechnology (EMB), Group for Aquatic Microbial Ecology and Centre of Water
   and Environmental Research (ZWU), University of Duisburg- Essen, Essen,
   Germany
-- <sup>i</sup> Biology Department, Portland State University, Portland, OR, USA
-- <sup>j</sup> Marine Microbiology Group, Department of Animal and Microbial
+- <sup>g</sup> Biology Department, Portland State University, Portland, OR, USA
+- <sup>h</sup> Department of Microbiology and Digital Science Center (DiSC),
+  University of Innsbruck, Innrain 15 / 01-05, Innsbruck 6020, Austria
+- <sup>i</sup> Marine Microbiology Group, Department of Animal and Microbial
   Diversity, Mediterranean Institute of Advanced Studies (CSIC-UIB), Esporles,
   Illes Balears, Spain
-- <sup>k</sup> Faculty of Health &amp; Life Sciences, Northumbria University,
+- <sup>j</sup> Faculty of Health &amp; Life Sciences, Northumbria University,
   Newcastle upon Tyne, UK
-- <sup>l</sup> Department of Biochemistry, Genetics and Microbiology, Forestry
+- <sup>k</sup> Department of Biochemistry, Genetics and Microbiology, Forestry
   and Agricultural Biotechnology Institute (FABI), University of Pretoria,
   Pretoria, South Africa
 
-
+Current addresses (SeqCode version 1.2.0)
+- <sup>1</sup> MC, DHP, LMR-R: Department of Chemistry and Bioscience, Aalborg
+  University, Aalborg East, Denmark
+- <sup>2</sup> MP: Department of Microbiology, University of Manitoba, Winnipeg,
+  Manitoba, Canada
 
 ## <a name="chapter-1"></a> CHAPTER 1. GENERAL CONSIDERATIONS
 
@@ -666,14 +668,14 @@ publication should be determined from the SeqCode Registry.
 
 If a publication proposing a name fails to meet the criteria for valid
 publication, the publication should be cited in parentheses preceding the
-effective publication and following the term "*ex*" upon valid publication of
+effective publication and following the term “*ex*“ upon valid publication of
 the name.
 
 ##### Recommendation 28c
 
 The first publication reporting or establishing an isolated strain designated as
 a paratype under [Rule 19a](#rule-19a) should be cited after the effective
-publication, following the term "paratype" or "Pt."
+publication, following the term “paratype“ or “Pt.“
 
 #### Proposal of a New Combination
 
@@ -951,8 +953,8 @@ is determined by the ICNP, the superscript “T” will be used immediately
 following the name or strain identifier. If the type is determined by the
 SeqCode, the superscript “Ts” or “TS” will be used. When the type is a taxon at
 the rank of genus or higher, the superscript is determined by the nature of the
-type of the species. If a paratype is to be designated, the superscript "Pt" or
-"PT" will be used. If superscripts are not possible, they may be replaced by the
+type of the species. If a paratype is to be designated, the superscript “Pt“ or
+“PT“ will be used. If superscripts are not possible, they may be replaced by the
 symbols in parentheses, i.e., (T), (Ts) or (TS), and (Pt) or (PT).
 
 For the purpose of identification in the text, names of taxa at all ranks should
@@ -975,7 +977,7 @@ preprint of the SeqCode.
   15–21
 * <a name="ref-truper-1997"></a> Trüper HG, de’Clari L (1997) Taxonomic note:
   necessary correction of specific epithets formed as substantives (nouns)
-  "in Apposition". Int J Syst Bacteriol 47:908–909.
+  “in Apposition“. Int J Syst Bacteriol 47:908–909.
 
 
 ---
