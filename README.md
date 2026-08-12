@@ -1,5 +1,6 @@
 # The Code of Nomenclature of Prokaryotes Described from Sequence Data
 
+<div class="authors">
 Edited by
 William B Whitman <sup>a</sup>,
 Maria Chuvochina <sup>b,1</sup>,
@@ -47,6 +48,8 @@ Current addresses (SeqCode version 1.2.0):
   University, Aalborg East, Denmark
 - <sup>2</sup> MP: Department of Microbiology, University of Manitoba, Winnipeg,
   Manitoba, Canada
+
+</div>
 
 ## <a name="chapter-1"></a> CHAPTER 1. GENERAL CONSIDERATIONS
 
