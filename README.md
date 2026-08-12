@@ -41,7 +41,8 @@ Stephanus N Venter <sup>k</sup>
   and Agricultural Biotechnology Institute (FABI), University of Pretoria,
   Pretoria, South Africa
 
-Current addresses (SeqCode version 1.2.0)
+Current addresses (SeqCode version 1.2.0):
+
 - <sup>1</sup> MC, DHP, LMR-R: Department of Chemistry and Bioscience, Aalborg
   University, Aalborg East, Denmark
 - <sup>2</sup> MP: Department of Microbiology, University of Manitoba, Winnipeg,
